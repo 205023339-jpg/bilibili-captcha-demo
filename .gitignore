@@ -1,0 +1,13 @@
+# 忽略运行产生的临时验证码图片
+yzm.png
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略编辑器配置
+.idea/
+.vscode/
+
+# 忽略虚拟环境
+venv/
